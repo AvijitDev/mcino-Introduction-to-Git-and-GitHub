@@ -57,4 +57,5 @@ Output:
 
 The objective of this project is to learn Bash scripting, Git version control, and GitHub repository management through a practical Simple Interest Calculator.
 
-© 2023 XYZ, Inc.
+© 2022 XYZ, Inc.
+© 2022 XYZ, Inc.
